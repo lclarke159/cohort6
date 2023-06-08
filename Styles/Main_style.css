@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 
 
-body, h1, h2, nav {
+body, header, h1, h2, nav {
     background-color: blue;
     color: yellow;
     margin: 20px;
     font-family: 'Rock Salt', cursive;
+}
+
+li {
+    color: lightblue;
 }
