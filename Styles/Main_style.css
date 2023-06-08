@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 
 
-body, header, h1, h2, nav {
+body, header, h1, nav {
     background-color: blue;
     color: yellow;
     margin: 20px;
@@ -10,4 +10,8 @@ body, header, h1, h2, nav {
 
 li {
     color: lightblue;
+}
+
+h2 {
+    color: pink;
 }
