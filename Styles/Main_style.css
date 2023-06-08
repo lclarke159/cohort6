@@ -11,6 +11,11 @@ body, header, h1, h2, nav {
 li {
     color: lightblue;
 }
+
 h3 {
     color: navy;
+}
+
+h2 {
+    color: pink;
 }
