@@ -2,7 +2,7 @@
 
 
 body, header, h1, h2, nav {
-    background-color: blue;
+    background-color: lightblue;
     color: yellow;
     margin: 20px;
     font-family: 'Rock Salt', cursive;
@@ -10,4 +10,7 @@ body, header, h1, h2, nav {
 
 li {
     color: lightblue;
+}
+h3 {
+    color: navy;
 }
